@@ -16,4 +16,9 @@ result = fNumber + sNumber
 print(result)
 
 
+# OUTPUT
+# 32
+# 3+2=5
+
+
 
